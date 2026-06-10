@@ -7,22 +7,22 @@
 }
 
 #hero {
-  color: #e1dcc9;
   background-color: #412d15;
 }
 
 .middle-container {
-  color: #e1dcc9;
   background-color: #000000;
 }
 
 .hero-text > h1 {
+  color: #e1dcc9;
   font-family: "Sacramento";
   font-size: 6rem;
   font-weight: 600;
 }
 
 .hero-text > h2 {
+  color: #e1dcc9;
   font-size: 2.5rem;
   font-family: "Montserrat", sans-serif;
 }
@@ -38,6 +38,7 @@
 }
 
 .middle-container h2 {
+  color: #e1dcc9;
   font-size: 3rem;
   font-family: "Montserrat", sans-serif;
 }
